@@ -40,7 +40,7 @@ Gold bless %s/US/EOS/g! Gold bless you all!~
 
 (没有 %s/vim/贸易/g 战争. EoF)
 
-Contract hash: c93d61af3077c50d502557f80d2e739a81ae97545b20b895aea97651a66d722e
+Contract Hash：bfdb1e3d61091bd8d4af8cf070a35cb8b127056280d83ee26c3dc7af62a63dbf
 
 [̲̅$̲̅(̲̅100̲̅)̲̅$̲̅][̲̅$̲̅(̲̅100̲̅)̲̅$̲̅][̲̅$̲̅(̲̅100̲̅)̲̅$̲̅][̲̅$̲̅(̲̅100̲̅)̲̅$̲̅][̲̅$̲̅(̲̅100̲̅)̲̅$̲̅]
 
